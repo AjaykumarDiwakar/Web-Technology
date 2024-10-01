@@ -1,0 +1,24 @@
+git -v
+git --version
+git configuration
+
+config --global user.name "name"
+config --global user.email "email"
+git config --global core.editor "code --wait"
+git config --global core.autocrlf true
+
+edit global configuration
+git config --global -e
+
+
+u->untracked
+
+git add filename.extension'
+
+now a->tracked or staged changes
+
+git commit -m " "
+
+where m->any commit message
+
+now file is saved
