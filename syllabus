@@ -41,3 +41,11 @@ types of mergimg
 2.3 way merge
 
 3.rebase
+
+
+steps
+ 1-> goto main branch
+ git switch main
+
+ 2.Merge
+ git merge feature/test
