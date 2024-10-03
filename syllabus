@@ -22,3 +22,9 @@ git commit -m " "
 where m->any commit message
 
 now file is saved
+
+//change the message for recently saved file
+git commit --amend -m " "
+
+//to change the name of branch from master to main
+git branch -M main
