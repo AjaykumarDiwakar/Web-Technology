@@ -36,6 +36,7 @@ git reset --head-3
 
 git branch branchname
 
+<<<<<<< HEAD
 types of mergimg 
 1.fast forward merging
 2.3 way merge
@@ -49,3 +50,15 @@ steps
 
  2.Merge
  git merge feature/test
+=======
+//check all branches
+
+git branch
+
+//to switch to a branch
+
+git switch branchname
+>>>>>>> feature/test
+//delete branch
+
+git branch -d feature/test
