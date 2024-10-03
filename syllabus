@@ -28,3 +28,10 @@ git commit --amend -m " "
 
 //to change the name of branch from master to main
 git branch -M main
+
+
+git reset --head-3
+
+//to create a branch
+
+git branch branchname
