@@ -35,3 +35,9 @@ git reset --head-3
 //to create a branch
 
 git branch branchname
+
+types of mergimg 
+1.fast forward merging
+2.3 way merge
+
+3.rebase
