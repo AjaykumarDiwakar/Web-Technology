@@ -44,6 +44,7 @@ types of mergimg
 3.rebase
 
 
+# fast forwardmmergr
 steps
  1-> goto main branch
  git switch main
