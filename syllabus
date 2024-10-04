@@ -65,3 +65,6 @@ git branch -d feature/test
 # checkout
 
 git checkout commit id;
+
+# git remote add origin https://github.com/AjaykumarDiwakar/Web-Technology.git
+# git push -u origin main
